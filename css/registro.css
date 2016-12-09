@@ -75,3 +75,9 @@
   background-color: #333;
   border-color: #333;
 }
+
+@media screen and (max-width:800px){
+	h2{
+		margin-top: -35px;
+	}
+}
